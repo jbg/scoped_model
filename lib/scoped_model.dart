@@ -2,7 +2,7 @@ library scoped_model;
 
 import 'dart:async';
 
-import 'package:flutter/material.dart';
+import 'package:flutter_web/material.dart';
 
 /// A base class that holds some data and allows other classes to listen to
 /// changes to that data.
